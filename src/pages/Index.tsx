@@ -18,7 +18,7 @@ export default function Index() {
         <section className="hero">
           <div className="hero-content">
             <h1 className="hero-title">
-              КОФЕ, КОТОРЫЙ
+              КОФЕ КОТОРЫЙ
               <br />
               БУДИТ <span>ДУШУ</span>
             </h1>
